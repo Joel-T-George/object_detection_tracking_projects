@@ -1,0 +1,10 @@
+
+data/
+__pycache__/
+
+captured_frames/
+*.mp4
+
+deep_sort/
+
+yolov5/
